@@ -5,6 +5,26 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 11-09-2026
 
 **Today's Work:**
+- Created and configured feature/session_2 branch from develop.
+- Implemented Day 2 Live-Coding Session problems in string/class_problems:
+  1. Vowel & Consonant Counter
+  2. CSV Student Record Parser
+  3. File Extension Validator
+  4. Masked Phone Number Formatter
+  5. Bank Transaction Reference Generator & Validator
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 2 assignment problems on feature/session_2.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 11-09-2026
+
+**Today's Work:**
 - Initialized repository structure following Semester 3 guidelines.
 - Configured branching model with main, develop, and feature/session_1.
 - Created empty Java project skeleton on the develop branch.
