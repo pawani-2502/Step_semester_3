@@ -9,6 +9,12 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Configured branching model with main, develop, and feature/session_1.
 - Created empty Java project skeleton on the develop branch.
 - Created feature/session_1 branch from develop for Session 1 work.
+- Implemented Day 1 Live-Coding Session problems in string/class_problems:
+  1. Rock-Paper-Scissors Game
+  2. Palindrome Checker (3 Approaches)
+  3. BMI Calculator for a Team
+  4. First Non-Repeating Character
+  5. Reverse Customer Name
 - Implemented Week 1 Assignment problems in string/assigment_problems:
   1. The Exam Hall Seat Duplication Checker
   2. The Typing Speed Test Accuracy Checker
