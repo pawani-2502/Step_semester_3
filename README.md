@@ -5,8 +5,13 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 12-09-2026
 
 **Today's Work:**
-- Created and configured feature/session_4 branch from develop.
-- Implemented Constructors and Java Keywords Category A problems in constructors/class_problems:
+- Completed Constructors and Java Keywords Category A Assignment problems in constructors/assigment_problems on feature/session_4:
+  1. Ghost Order Validator
+  2. ASAP or Scheduled — Delivery Slot Booking
+  3. Canteen Trust-Score Ranking Engine
+  4. Exam-Week Surge Fee Calculator
+  5. Nightly Multi-Kitchen Reconciliation Engine
+- Implemented Constructors and Java Keywords Category A Live-Coding problems in constructors/class_problems on feature/session_4:
   1. Bus Ticket Booking Validator
   2. Remainder-Fair FareSplitter
   3. Bus Route Ranking Engine
@@ -15,7 +20,7 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Verified all programs with required test cases and matching sample outputs.
 
 **Next Session Plan:**
-- Proceed with Session 4 assignment problems on feature/session_4.
+- Proceed with Session 5 topics on a new feature branch created from develop.
 
 **Issues Faced:**
 - None
