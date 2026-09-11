@@ -5,8 +5,13 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 12-09-2026
 
 **Today's Work:**
-- Created and configured feature/session_5 branch from develop.
-- Implemented Access Modifiers, Encapsulation & Object Modeling problems in encapsulation/class_problems:
+- Completed Access Modifiers, Encapsulation & Object Modeling Assignment problems in encapsulation/assigment_problems on feature/session_5:
+  1. Membership Field Reach Checker
+  2. Reference Desk Subclass Reach Across Packages
+  3. Book Copy Circulation Guard
+  4. LibraryMember JavaBean, Chained Constructors & Security Answer
+  5. Immutable Loan Receipt & Nightly Circulation Ledger
+- Implemented Access Modifiers, Encapsulation & Object Modeling Live-Coding problems in encapsulation/class_problems on feature/session_5:
   1. Field Visibility & Intake Validator
   2. Cross-Package Inheritance Reach
   3. Vitals Monitoring Encapsulation Guard
@@ -15,7 +20,7 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Verified all programs with required test cases and matching sample outputs.
 
 **Next Session Plan:**
-- Proceed with Session 5 assignment problems on feature/session_5.
+- Proceed with Session 6 topics on a new feature branch created from develop.
 
 **Issues Faced:**
 - None
