@@ -5,6 +5,26 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Created and configured feature/session_4 branch from develop.
+- Implemented Constructors and Java Keywords Category A problems in constructors/class_problems:
+  1. Bus Ticket Booking Validator
+  2. Remainder-Fair FareSplitter
+  3. Bus Route Ranking Engine
+  4. Tiered Boarding Penalty Calculator
+  5. Nightly Fleet Reconciliation Engine
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 4 assignment problems on feature/session_4.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Completed Week 3 Category A Assignment problems in oop/assigment_problems on feature/session_3:
   1. From Procedural Mess to a Working Library Fine System
   2. Extending Employee Without Touching It
