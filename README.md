@@ -5,8 +5,13 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 12-09-2026
 
 **Today's Work:**
-- Created and configured feature/session_3 branch from develop.
-- Implemented Week 3 Category A Live-Coding problems in oop/class_problems:
+- Completed Week 3 Category A Assignment problems in oop/assigment_problems on feature/session_3:
+  1. From Procedural Mess to a Working Library Fine System
+  2. Extending Employee Without Touching It
+  3. Object References, Null Safety, and a Mutating Method
+  4. Designing the Instance/Static Boundary for a Library Membership System
+  5. Capstone: A Small HR + Parking Allocation Mini-System
+- Implemented Week 3 Category A Live-Coding problems in oop/class_problems on feature/session_3:
   1. From Procedural Mess to a Working Attendance System
   2. Extending FeeAccount Without Touching It
   3. Object References, Null Safety, and a Mutating Method
@@ -15,7 +20,7 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Verified all programs with required test cases and matching sample outputs.
 
 **Next Session Plan:**
-- Proceed with Session 3 assignment problems on feature/session_3.
+- Proceed with Session 4 topics on a new feature branch created from develop.
 
 **Issues Faced:**
 - None
