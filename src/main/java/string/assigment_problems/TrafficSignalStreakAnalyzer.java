@@ -1,19 +1,7 @@
 package string.assigment_problems;
 
-/**
- * Problem 3: The Traffic Signal Streak Analyzer
- *
- * Scenario:
- * Scans traffic signal reading logs ('R', 'Y', 'G') to find the longest continuous
- * streak of consecutive identical signal colors.
- */
 public class TrafficSignalStreakAnalyzer {
 
-    /**
-     * Finds and prints the color and length of the longest streak.
-     *
-     * @param signalLog sequence of signal readings
-     */
     public static void findLongestStreak(String signalLog) {
         if (signalLog == null || signalLog.isEmpty()) {
             System.out.println("Signal log is empty.");
@@ -40,7 +28,6 @@ public class TrafficSignalStreakAnalyzer {
             }
         }
 
-        // Check last sequence
         if (currentLength > maxLength) {
             maxLength = currentLength;
             maxColor = currentColor;
@@ -50,11 +37,9 @@ public class TrafficSignalStreakAnalyzer {
     }
 
     public static void main(String[] args) {
-        // Sample Test Case 1
         System.out.println("Test Case 1:");
         findLongestStreak("RRGGGYRR");
 
-        // Sample Test Case 2
         System.out.println("\nTest Case 2:");
         findLongestStreak("RRRRYYGG");
     }

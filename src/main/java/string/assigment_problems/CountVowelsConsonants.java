@@ -1,9 +1,5 @@
 package string.assigment_problems;
 
-/**
- * Assignment Problem: Count Vowels and Consonants
- * Counts the number of vowels and consonants in a given input string.
- */
 public class CountVowelsConsonants {
 
     public static class Result {

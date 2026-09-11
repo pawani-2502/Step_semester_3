@@ -1,21 +1,7 @@
 package string.assigment_problems;
 
-/**
- * Problem 2: The Typing Speed Test Accuracy Checker
- *
- * Scenario:
- * Compares a user-typed string against the original passage character by character.
- * Calculates matching character count, accuracy percentage, and reports the position
- * of the first mismatch.
- */
 public class TypingSpeedTestAccuracyChecker {
 
-    /**
-     * Compares original and typed strings, calculates accuracy and flags first mismatch.
-     *
-     * @param original the reference text passage
-     * @param typed the text typed by user (assumed equal length per task definition)
-     */
     public static void checkTypingAccuracy(String original, String typed) {
         if (original == null || typed == null) {
             System.out.println("Invalid input: string cannot be null.");
@@ -32,7 +18,7 @@ public class TypingSpeedTestAccuracyChecker {
             if (original.charAt(i) == typed.charAt(i)) {
                 matched++;
             } else if (firstMismatchPos == -1) {
-                firstMismatchPos = i + 1; // 1-based position
+                firstMismatchPos = i + 1;
                 origChar = original.charAt(i);
                 typedChar = typed.charAt(i);
             }
@@ -50,11 +36,9 @@ public class TypingSpeedTestAccuracyChecker {
     }
 
     public static void main(String[] args) {
-        // Sample Test Case 1
         System.out.println("Test Case 1:");
         checkTypingAccuracy("hello world", "hello worlt");
 
-        // Sample Test Case 2
         System.out.println("\nTest Case 2:");
         checkTypingAccuracy("coding", "coding");
     }

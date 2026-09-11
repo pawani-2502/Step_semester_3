@@ -1,10 +1,5 @@
 package string.class_problems;
 
-/**
- * Class Problem: Reverse a String
- * Demonstration of reversing a string using in-place character array two-pointer approach
- * and StringBuilder.
- */
 public class ReverseString {
 
     public static String reverseWithPointers(String str) {

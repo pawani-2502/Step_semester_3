@@ -1,10 +1,5 @@
 package string.class_problems;
 
-/**
- * Class Problem: Palindrome Check
- * Checks whether a given string reads the same forwards and backwards,
- * ignoring case and non-alphanumeric characters.
- */
 public class PalindromeCheck {
 
     public static boolean isPalindrome(String str) {

@@ -2,16 +2,11 @@ package string.assigment_problems;
 
 import java.util.Arrays;
 
-/**
- * Assignment Problem: Anagram Check
- * Checks if two strings are anagrams of each other (contain the same characters with the same frequencies).
- */
 public class AnagramCheck {
 
     public static boolean isAnagram(String s1, String s2) {
         if (s1 == null || s2 == null) return false;
-        
-        // Normalize: remove spaces and convert to lowercase
+
         String cleanS1 = s1.replaceAll("\\s+", "").toLowerCase();
         String cleanS2 = s2.replaceAll("\\s+", "").toLowerCase();
 
