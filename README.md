@@ -2,11 +2,16 @@
 
 Semester 3 — Version Control & Daily Workflow Standard
 
-## Date: 11-09-2026
+## Date: 12-09-2026
 
 **Today's Work:**
-- Created and configured feature/session_2 branch from develop.
-- Implemented Day 2 Live-Coding Session problems in string/class_problems:
+- Completed Week 2 Assignment problems in string/assigment_problems on feature/session_2:
+  1. ATM PIN Length Validator
+  2. Word Reversal Encoder
+  3. Product Inventory CSV Parser
+  4. Library ISBN Normalizer & Validator
+  5. Stop-Word-Filtered Word Frequency Report
+- Implemented Day 2 Live-Coding Session problems in string/class_problems on feature/session_2:
   1. Vowel & Consonant Counter
   2. CSV Student Record Parser
   3. File Extension Validator
@@ -15,7 +20,7 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Verified all programs with required test cases and matching sample outputs.
 
 **Next Session Plan:**
-- Proceed with Session 2 assignment problems on feature/session_2.
+- Proceed with Session 3 topics on a new feature branch created from develop.
 
 **Issues Faced:**
 - None
