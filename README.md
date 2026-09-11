@@ -5,6 +5,26 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 12-09-2026
 
 **Today's Work:**
+- Created and configured feature/session_5 branch from develop.
+- Implemented Access Modifiers, Encapsulation & Object Modeling problems in encapsulation/class_problems:
+  1. Field Visibility & Intake Validator
+  2. Cross-Package Inheritance Reach
+  3. Vitals Monitoring Encapsulation Guard
+  4. PatientProfile JavaBean, Chained Constructors & Locker PIN
+  5. Immutable Discharge Summary & Nightly Ledger
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 5 assignment problems on feature/session_5.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 12-09-2026
+
+**Today's Work:**
 - Completed Constructors and Java Keywords Category A Assignment problems in constructors/assigment_problems on feature/session_4:
   1. Ghost Order Validator
   2. ASAP or Scheduled — Delivery Slot Booking
