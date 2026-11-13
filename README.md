@@ -2,6 +2,26 @@
 
 Semester 3 — Version Control & Daily Workflow Standard
 
+## Date: 13-11-2026
+
+**Today's Work:**
+- Created and configured feature/session_6 branch from develop.
+- Implemented Inheritance and Polymorphism problems in inheritance/class_problems:
+  1. Ticket Hierarchy Foundation & Batch Registration Validator
+  2. Three Shapes of One Family Tree
+  3. The Late-Registration Penalty Override & Audit Trail
+  4. The Nightly Ticket Announcer
+  5. Fest-Wide Ticket Issuance, Promo Codes & Nightly Settlement Engine
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 6 assignment problems on feature/session_6.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 12-09-2026
 
 **Today's Work:**
