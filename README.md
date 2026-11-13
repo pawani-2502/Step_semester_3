@@ -5,8 +5,13 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 13-11-2026
 
 **Today's Work:**
-- Created and configured feature/session_6 branch from develop.
-- Implemented Inheritance and Polymorphism problems in inheritance/class_problems:
+- Completed Inheritance and Polymorphism Assignment problems in inheritance/assigment_problems on feature/session_6:
+  1. Race Entry Foundation & Batch Bib Validator
+  2. Three Shapes of One Race Family
+  3. The Late-Withdrawal Penalty Override & Audit Trail
+  4. The Race-Day Announcer Board
+  5. Race-Wide Bib Issuance, Discount Codes & Nightly Settlement Engine
+- Implemented Inheritance and Polymorphism Live-Coding problems in inheritance/class_problems on feature/session_6:
   1. Ticket Hierarchy Foundation & Batch Registration Validator
   2. Three Shapes of One Family Tree
   3. The Late-Registration Penalty Override & Audit Trail
@@ -15,7 +20,7 @@ Semester 3 — Version Control & Daily Workflow Standard
 - Verified all programs with required test cases and matching sample outputs.
 
 **Next Session Plan:**
-- Proceed with Session 6 assignment problems on feature/session_6.
+- Proceed with Session 7 topics on a new feature branch created from develop.
 
 **Issues Faced:**
 - None
