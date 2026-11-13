@@ -2,6 +2,26 @@
 
 Semester 3 — Version Control & Daily Workflow Standard
 
+## Date: 14-11-2026
+
+**Today's Work:**
+- Created and configured feature/session_7 branch from develop.
+- Implemented Abstract Classes and Interfaces Assignment problems in abstraction/assigment_problems:
+  1. Basic Drawing Canvas
+  2. One-Click Data Export
+  3. Fleet Maintenance Tracker
+  4. Arena Battle Simulator
+  5. Connected Home Control Panel
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 7 classroom / practice problems or Session 8 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 13-11-2026
 
 **Today's Work:**
