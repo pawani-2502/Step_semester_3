@@ -5,6 +5,26 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 14-11-2026
 
 **Today's Work:**
+- Created and configured feature/session_8 branch from develop.
+- Implemented Object Modeling and Domain Design Assignment problems in object_modeling/assigment_problems:
+  1. The Code Sprint Judging Desk
+  2. The SwiftShip Parcel Tracker
+  3. The Smart Lab Control Panel
+  4. The Elective Seat Rush
+  5. The Campus Canteen Smart Card
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 9 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 14-11-2026
+
+**Today's Work:**
 - Created and configured feature/session_7 branch from develop.
 - Implemented Abstract Classes and Interfaces Assignment problems in abstraction/assigment_problems:
   1. Basic Drawing Canvas
