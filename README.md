@@ -5,6 +5,22 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 14-11-2026
 
 **Today's Work:**
+- Created and configured feature/session_10 branch from develop.
+- Implemented Doubly Linked List assignment problem in linked_list/assigment_problems:
+  1. Campus Portal Browser History (Custom Doubly Linked List, O(1) visit, O(steps) back & forward navigation)
+- Verified all test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 11 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 14-11-2026
+
+**Today's Work:**
 - Created and configured feature/session_9 branch from develop.
 - Implemented Data Structures & Algorithms Assignment problems in data_structures/assigment_problems:
   1. Mall Footfall Range Report (Prefix Sums)
