@@ -5,6 +5,26 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 14-11-2026
 
 **Today's Work:**
+- Created and configured feature/session_9 branch from develop.
+- Implemented Data Structures & Algorithms Assignment problems in data_structures/assigment_problems:
+  1. Mall Footfall Range Report (Prefix Sums)
+  2. Longest Budget-Friendly Streak (Sliding Window / Two Pointers)
+  3. Net-Balance Period Counter (Prefix Sums & Hash Map)
+  4. Exam Score Band Counter (Binary Search - Lower & Upper Bounds)
+  5. Spiral Stock Audit Route (2D Matrix Spiral Traversal)
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 10 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 14-11-2026
+
+**Today's Work:**
 - Created and configured feature/session_8 branch from develop.
 - Implemented Object Modeling and Domain Design Assignment problems in object_modeling/assigment_problems:
   1. The Code Sprint Judging Desk
