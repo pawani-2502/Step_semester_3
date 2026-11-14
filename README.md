@@ -5,6 +5,28 @@ Semester 3 — Version Control & Daily Workflow Standard
 ## Date: 14-11-2026
 
 **Today's Work:**
+- Created and configured feature/session_11 branch from develop.
+- Implemented Linked List Algorithm Assignment problems in linked_list/assigment_problems:
+  1. Remove Nth Node From End of List (`RemoveNthFromEnd.java`)
+  2. Palindrome Linked List (`PalindromeLinkedList.java`)
+  3. Add Two Numbers Represented by Linked Lists (`AddTwoNumbersLinkedList.java`)
+  4. Find Intersection Node of Two Linked Lists (`IntersectionNodeLinkedList.java`)
+  5. Reorder Linked List Alternately from Ends (`ReorderLinkedList.java`)
+- Solved all 10 Quiz Questions with complete explanations in `ANSWERS.md`.
+- Solved all 10 Concept Questions covering trade-offs, spatial/temporal complexity, memory leaks, and CPU cache utilization in `ANSWERS.md`.
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 12 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 14-11-2026
+
+**Today's Work:**
 - Created and configured feature/session_10 branch from develop.
 - Implemented Doubly Linked List assignment problem in linked_list/assigment_problems:
   1. Campus Portal Browser History (Custom Doubly Linked List, O(1) visit, O(steps) back & forward navigation)
