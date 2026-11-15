@@ -2,6 +2,25 @@
 
 Semester 3 — Version Control & Daily Workflow Standard
 
+## Date: 15-11-2026
+
+**Today's Work:**
+- Implemented Practice Problems Assignment in practice_problems/assigment_problems on feature/session_11:
+  1. Order Walkthrough with Nested Types (`Order.java`, `OrderWalkthrough.java`)
+  2. Ride Fare Engine (`RideFareEngine.java`)
+  3. Round-Robin Lab Scheduler (`LabScheduler.java`, `RoundRobinLabScheduler.java`)
+  4. Campus Map Pins (`CampusMapPins.java`)
+  5. Placement Drive Shortlist (`PlacementDriveShortlist.java`)
+- Verified all programs with required test cases and matching sample outputs.
+
+**Next Session Plan:**
+- Proceed with Session 12 topics on a new feature branch created from develop.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 14-11-2026
 
 **Today's Work:**
